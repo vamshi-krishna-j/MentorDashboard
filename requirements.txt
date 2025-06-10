@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+weasyprint
+markdown
+python-dotenv
